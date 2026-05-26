@@ -1,6 +1,21 @@
 ---
 title: Lorem ipsum dolor sit amet
-date: '2026-05-26T21:47:44.369Z'
+description: >-
+  dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+  ut labore et dolore magna aliqua. 
+author: George Ongoro
+tags:
+  - ut
+  - labore
+  - et
+  - dolore
+  - magna
+  - aliqua
+featuredImage: >-
+  https://raw.githubusercontent.com/004Ongoro/vellum-blog/main/assets/1779832810854-screenshot-2026-05-20-14-51-13.png
+readTime: 2
+date: '2026-05-26T22:02:12.772Z'
+slug: test-file
 ---
 ## Lorem ipsum
 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin tortor purus platea sit eu id nisi litora libero. Neque vulputate consequat ac amet augue blandit maximus aliquet congue. Pharetra vestibulum posuere ornare faucibus fusce dictumst orci aenean eu facilisis ut volutpat commodo senectus purus himenaeos fames primis convallis nisi.
